@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "Unhinged LinkedIn Spinner",
+  "version": "1.0",
+  "description": "Pivot your life's chaos into corporate synergy.",
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
